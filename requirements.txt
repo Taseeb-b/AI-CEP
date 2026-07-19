@@ -1,8 +1,0 @@
-gradio
-openai
-arxiv
-pymupdf
-python-docx
-pandas
-requests
-tenacity
