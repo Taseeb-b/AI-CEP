@@ -1,0 +1,13 @@
+streamlit
+gradio
+openai
+arxiv
+pymupdf
+python-docx
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+tqdm
+requests
+tenacity
